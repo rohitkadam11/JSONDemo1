@@ -1,0 +1,64 @@
+{
+  "activity":[
+    {
+      "id":"1",
+      "title":"Play some games",
+      "discription":"Even just a game of pool every few hours is enough to put a smile on our faces. Not only does it make us happy but we often end up chatting about projects over the pool table, giving us a fresh new perspective to take back to our desks.",
+      "photo":"games"
+    },
+    {
+      "id":"2",
+      "title":"Go out together",
+      "discription":"Have fun with your whole team by going for regular days and/or nights out. Going out together as a team is a great way to get everyone having fun and forming relationships outside of work that could inspire collaboration back in the office.",
+      "photo":"outings"
+    },
+    {
+      "id":"3",
+      "title":"Talk to a friend",
+      "discription":"When something's really bothering you it can help you to share your feelings with your friend.",
+      "photo":"friendtalk"
+    },
+    {
+      "id":"4",
+      "title":"Decorate the Workplace.",
+      "discription":"Remember, your office is a reflection of your brand. Decorating in accordance with your brand will help your team stay in touch with it.",
+      "photo":"decorate"
+    },
+    {
+      "id":"5",
+      "title":"Celebrate small wins",
+      "discription":"one of the biggest influences on workplace happiness and productivity is the “progress principle”.",
+      "photo":"celebration"
+    },
+    {
+      "id":"6",
+      "title":"Share photos of your children or pets",
+      "discription":"Showing photos of your kid or pet to co-workers can help your team establish friendships, creating a happier and more loyal workforce.",
+      "photo":"share"
+    },
+    {
+      "id":"7",
+      "title":"Start planning a vacation",
+      "discription":"Leaving the confines of the office for a team-building trip gets employees out of their typical work environment and provides an opportunity for new learning and experiences.",
+      "photo":"planning"
+    },
+    {
+      "id":"8",
+      "title":"Create a Humor Bulletin Board.",
+      "discription":"Bring more humor into the workplace by starting a humor bulletin board. ",
+      "photo":"humour"
+    },
+    {
+      "id":"9",
+      "title":"Have a “Success Bell”.",
+      "discription":" When someone in the office helps a client or makes a new sale they ring a bell and everyone cheers. ",
+      "photo":"successbell"
+    },
+    {
+      "id":"10",
+      "title":"Set Up a Humor Room",
+      "discription":" Bring more laughter into the office by turning the coffee room into a humor room. Stock it with stand-up comedy routines on DVD or audio tapes.",
+      "photo":"humourroom"
+    }
+  ]
+}

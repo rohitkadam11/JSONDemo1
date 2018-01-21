@@ -1,0 +1,65 @@
+{
+  "food":[
+    {
+      "id":"1",
+      "title":"Water",
+      "discription":"Water helps us focus when our concentration drags, which is especially important for our workday. The recommended daily intake, according to the Institute of Medicine, is 9 cups for females and 13 cups for males.",
+      "photo":"water"
+    },
+    {
+      "id":"2",
+      "title":"Coffe",
+      "discription":"Whether you like your java hot or on ice in the summer, caffeine can positively affect your ability to focus, concentrate and remember. Add a splash of milk, soy milk or almond milk for some calcium.",
+      "photo":"coffee"
+    },
+    {
+      "id":"3",
+      "title":"Iced Tea",
+      "discription":"Either homemade or bought from your favorite cafe, try green or black tea for a hit of caffeine, or herbal if you feel you’ve already had enough coffee for the day.",
+      "photo":"icetea"
+    },
+    {
+      "id":"4",
+      "title":" Avocados",
+      "discription":"Avocados are a healthy source of fat and can be enjoyed in a variety of ways.Avocado has levels of monounsatured fat which is good for our heart and prevents inflammation in the body.",
+      "photo":"avocado"
+    },
+    {
+      "id":"5",
+      "title":"Watermelon",
+      "discription":"Perhaps the most beloved summer fruit, watermelon conjures up family barbeques and summer nights.Since watermelon has, well, water, it’s a good source of hydration.",
+      "photo":"watermelon"
+    },
+    {
+      "id":"6",
+      "title":"Green Juice",
+      "discription":"Green juice is a good way to get several servings of fruit and vegetables, and all of those vitamins and nutrients in one sitting.",
+      "photo":"greenjuice"
+    },
+    {
+      "id":"7",
+      "title":"Cucumbers",
+      "discription":"The phrase 'cool as a cucumber' exists for a reason. Cucumbers will cool you down in no time. ",
+      "photo":"cucumbers"
+    },
+    {
+      "id":"8",
+      "title":"Protein bars",
+      "discription":" They live up to their name and supply you with the energy-boosting Protein that keeps you going through the day.",
+      "photo":"proteinbars"
+    },
+    {
+      "id":"9",
+      "title":"Sweet potato crisps",
+      "discription":"Sweet potato crisps, with no additives or preservatives.",
+      "photo":"sweetpotato"
+    },
+    {
+      "id":"10",
+      "title":"Dried Fruit",
+      "discription":"Dried fruit can satisfy that mid-afternoon sweet tooth while tiding over with filling fiber.",
+      "photo":"driedfruit"
+    }
+
+  ]
+}
